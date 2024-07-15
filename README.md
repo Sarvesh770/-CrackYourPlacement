@@ -7,11 +7,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0073-set-matrix-zeroes](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0075-sort-colors) |
+| [0283-move-zeroes](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0283-move-zeroes) |
 ## Two Pointers
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0075-sort-colors) |
+| [0283-move-zeroes](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0283-move-zeroes) |
 ## Sorting
 |  |
 | ------- |
