@@ -96,4 +96,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0287-find-the-duplicate-number) |
+## String
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0020-valid-parentheses) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
