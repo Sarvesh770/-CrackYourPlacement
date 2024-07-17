@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0055-jump-game) |
 | [0073-set-matrix-zeroes](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0075-sort-colors) |
+| [0079-word-search](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0079-word-search) |
 | [0088-merge-sorted-array](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0073-set-matrix-zeroes) |
+| [0079-word-search](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0079-word-search) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -119,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0067-add-binary](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0067-add-binary) |
+| [0079-word-search](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0079-word-search) |
 ## Stack
 |  |
 | ------- |
@@ -141,4 +144,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
+## Backtracking
+|  |
+| ------- |
+| [0079-word-search](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0079-word-search) |
 <!---LeetCode Topics End-->
