@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0287-find-the-duplicate-number) |
 | [0347-top-k-frequent-elements](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0347-top-k-frequent-elements) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0493-reverse-pairs](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0493-reverse-pairs) |
 | [0560-subarray-sum-equals-k](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0560-subarray-sum-equals-k) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0347-top-k-frequent-elements) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0628-maximum-product-of-three-numbers) |
 ## Hash Table
 |  |
@@ -72,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0073-set-matrix-zeroes) |
 | [0079-word-search](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0079-word-search) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -108,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0287-find-the-duplicate-number) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0493-reverse-pairs](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0493-reverse-pairs) |
 ## Binary Indexed Tree
 |  |
@@ -179,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0264-ugly-number-ii](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0264-ugly-number-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0347-top-k-frequent-elements) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [1762-furthest-building-you-can-reach](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/1762-furthest-building-you-can-reach) |
 ## Bucket Sort
 |  |
