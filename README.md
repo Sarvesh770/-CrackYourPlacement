@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0001-two-sum) |
+| [0012-integer-to-roman](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0012-integer-to-roman) |
 | [0073-set-matrix-zeroes](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0169-majority-element) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0012-integer-to-roman) |
 | [0014-longest-common-prefix](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
@@ -137,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0012-integer-to-roman) |
 | [0067-add-binary](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0067-add-binary) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0628-maximum-product-of-three-numbers) |
 ## Simulation
