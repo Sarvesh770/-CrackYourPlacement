@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0012-integer-to-roman) |
 | [0073-set-matrix-zeroes](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0169-majority-element) |
+| [0264-ugly-number-ii](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0264-ugly-number-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0347-top-k-frequent-elements) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0560-subarray-sum-equals-k) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0264-ugly-number-ii](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0264-ugly-number-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -151,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0012-integer-to-roman) |
 | [0048-rotate-image](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0048-rotate-image) |
 | [0067-add-binary](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0067-add-binary) |
+| [0264-ugly-number-ii](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0264-ugly-number-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0628-maximum-product-of-three-numbers) |
 ## Simulation
 |  |
@@ -172,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0264-ugly-number-ii](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0264-ugly-number-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0347-top-k-frequent-elements) |
 ## Bucket Sort
 |  |
