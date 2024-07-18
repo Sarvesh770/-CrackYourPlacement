@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0493-reverse-pairs](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0493-reverse-pairs) |
 | [0560-subarray-sum-equals-k](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0560-subarray-sum-equals-k) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0628-maximum-product-of-three-numbers) |
+| [1014-k-closest-points-to-origin](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/1014-k-closest-points-to-origin) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1762-furthest-building-you-can-reach](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/1762-furthest-building-you-can-reach) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0628-maximum-product-of-three-numbers) |
 | [0778-reorganize-string](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0778-reorganize-string) |
+| [1014-k-closest-points-to-origin](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/1014-k-closest-points-to-origin) |
 ## Hash Table
 |  |
 | ------- |
@@ -94,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0347-top-k-frequent-elements) |
 | [0493-reverse-pairs](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0493-reverse-pairs) |
+| [1014-k-closest-points-to-origin](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/1014-k-closest-points-to-origin) |
 ## Counting
 |  |
 | ------- |
@@ -172,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0067-add-binary) |
 | [0264-ugly-number-ii](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0264-ugly-number-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0628-maximum-product-of-three-numbers) |
+| [1014-k-closest-points-to-origin](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/1014-k-closest-points-to-origin) |
 ## Simulation
 |  |
 | ------- |
@@ -197,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0778-reorganize-string](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0778-reorganize-string) |
+| [1014-k-closest-points-to-origin](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/1014-k-closest-points-to-origin) |
 | [1762-furthest-building-you-can-reach](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/1762-furthest-building-you-can-reach) |
 ## Bucket Sort
 |  |
@@ -207,8 +212,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0347-top-k-frequent-elements) |
+| [1014-k-closest-points-to-origin](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/1014-k-closest-points-to-origin) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [1792-find-the-most-competitive-subsequence](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/1792-find-the-most-competitive-subsequence) |
+## Geometry
+|  |
+| ------- |
+| [1014-k-closest-points-to-origin](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/1014-k-closest-points-to-origin) |
 <!---LeetCode Topics End-->
