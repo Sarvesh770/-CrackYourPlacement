@@ -323,6 +323,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0021-merge-two-sorted-lists) |
 | [0141-linked-list-cycle](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0141-linked-list-cycle) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
+## Recursion
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0021-merge-two-sorted-lists) |
 <!---LeetCode Topics End-->
