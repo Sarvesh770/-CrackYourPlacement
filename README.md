@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0141-linked-list-cycle) |
+| [0148-sort-list](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0148-sort-list) |
 | [0151-reverse-words-in-a-string](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0151-reverse-words-in-a-string) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0234-palindrome-linked-list) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0088-merge-sorted-array) |
+| [0148-sort-list](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0347-top-k-frequent-elements) |
@@ -114,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0347-top-k-frequent-elements) |
@@ -160,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Merge Sort
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0148-sort-list) |
 | [0493-reverse-pairs](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0493-reverse-pairs) |
 ## Ordered Set
 |  |
@@ -334,6 +338,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0021-merge-two-sorted-lists) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0141-linked-list-cycle](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0141-linked-list-cycle) |
+| [0148-sort-list](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0234-palindrome-linked-list) |
