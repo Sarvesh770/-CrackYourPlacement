@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0169-majority-element) |
 | [0200-number-of-islands](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0215-kth-largest-element-in-an-array) |
+| [0239-sliding-window-maximum](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0239-sliding-window-maximum) |
 | [0283-move-zeroes](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0287-find-the-duplicate-number) |
 | [0347-top-k-frequent-elements](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0347-top-k-frequent-elements) |
@@ -238,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0239-sliding-window-maximum) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 ## Backtracking
 |  |
@@ -253,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0215-kth-largest-element-in-an-array) |
+| [0239-sliding-window-maximum](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0239-sliding-window-maximum) |
 | [0264-ugly-number-ii](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0264-ugly-number-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
@@ -377,4 +380,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0234-palindrome-linked-list) |
 | [0394-decode-string](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0394-decode-string) |
+## Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0239-sliding-window-maximum) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
