@@ -197,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0115-distinct-subsequences](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0115-distinct-subsequences) |
 | [0151-reverse-words-in-a-string](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0151-reverse-words-in-a-string) |
 | [0168-excel-sheet-column-title](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0168-excel-sheet-column-title) |
+| [0394-decode-string](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0394-decode-string) |
 | [0680-valid-palindrome-ii](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0680-valid-palindrome-ii) |
 | [0778-reorganize-string](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0778-reorganize-string) |
 ## Stack
@@ -206,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0084-largest-rectangle-in-histogram) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0094-binary-tree-inorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0234-palindrome-linked-list) |
+| [0394-decode-string](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0394-decode-string) |
 | [0496-next-greater-element-i](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0496-next-greater-element-i) |
 | [1792-find-the-most-competitive-subsequence](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/1792-find-the-most-competitive-subsequence) |
 ## String Matching
@@ -368,4 +370,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0025-reverse-nodes-in-k-group](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0025-reverse-nodes-in-k-group) |
 | [0206-reverse-linked-list](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0234-palindrome-linked-list) |
+| [0394-decode-string](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0394-decode-string) |
 <!---LeetCode Topics End-->
