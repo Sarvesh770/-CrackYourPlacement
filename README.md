@@ -296,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0110-balanced-binary-tree](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0112-path-sum) |
 | [0226-invert-binary-tree](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0226-invert-binary-tree) |
+| [0404-sum-of-left-leaves](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0404-sum-of-left-leaves) |
 | [0543-diameter-of-binary-tree](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0543-diameter-of-binary-tree) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 ## Depth-First Search
@@ -309,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0112-path-sum) |
 | [0200-number-of-islands](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0226-invert-binary-tree) |
+| [0404-sum-of-left-leaves](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0404-sum-of-left-leaves) |
 | [0543-diameter-of-binary-tree](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0543-diameter-of-binary-tree) |
 | [0733-flood-fill](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0733-flood-fill) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0803-cheapest-flights-within-k-stops) |
@@ -326,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0110-balanced-binary-tree](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0112-path-sum) |
 | [0226-invert-binary-tree](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0226-invert-binary-tree) |
+| [0404-sum-of-left-leaves](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0404-sum-of-left-leaves) |
 | [0543-diameter-of-binary-tree](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0543-diameter-of-binary-tree) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 ## Breadth-First Search
@@ -339,6 +342,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0127-word-ladder](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0127-word-ladder) |
 | [0200-number-of-islands](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0226-invert-binary-tree) |
+| [0404-sum-of-left-leaves](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0404-sum-of-left-leaves) |
 | [0733-flood-fill](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0733-flood-fill) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0820-find-eventual-safe-states](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0820-find-eventual-safe-states) |
