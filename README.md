@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0560-subarray-sum-equals-k) |
 | [0778-reorganize-string](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0778-reorganize-string) |
+| [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/1016-subarray-sums-divisible-by-k) |
 ## Matrix
 |  |
@@ -295,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0110-balanced-binary-tree](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0110-balanced-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0226-invert-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0543-diameter-of-binary-tree) |
+| [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -309,6 +311,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0733-flood-fill) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0820-find-eventual-safe-states](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0820-find-eventual-safe-states) |
+| [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/1442-number-of-operations-to-make-network-connected) |
 ## Binary Tree
 |  |
@@ -321,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0110-balanced-binary-tree](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0110-balanced-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0226-invert-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0543-diameter-of-binary-tree) |
+| [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -334,6 +338,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0733-flood-fill) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0820-find-eventual-safe-states](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0820-find-eventual-safe-states) |
+| [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/1442-number-of-operations-to-make-network-connected) |
 ## Union Find
 |  |
