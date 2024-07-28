@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0075-sort-colors](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0075-sort-colors) |
+| [0086-partition-list](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0086-partition-list) |
 | [0088-merge-sorted-array](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0141-linked-list-cycle) |
 | [0148-sort-list](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0148-sort-list) |
@@ -412,6 +413,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0023-merge-k-sorted-lists](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0023-merge-k-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0025-reverse-nodes-in-k-group) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0083-remove-duplicates-from-sorted-list) |
+| [0086-partition-list](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0086-partition-list) |
 | [0141-linked-list-cycle](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0141-linked-list-cycle) |
 | [0148-sort-list](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0160-intersection-of-two-linked-lists) |
