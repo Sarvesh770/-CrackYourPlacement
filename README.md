@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0287-find-the-duplicate-number) |
 | [0680-valid-palindrome-ii](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0680-valid-palindrome-ii) |
+| [0874-backspace-string-compare](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0874-backspace-string-compare) |
 ## Sorting
 |  |
 | ------- |
@@ -219,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0394-decode-string](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0394-decode-string) |
 | [0680-valid-palindrome-ii](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0680-valid-palindrome-ii) |
 | [0778-reorganize-string](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0778-reorganize-string) |
+| [0874-backspace-string-compare](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0874-backspace-string-compare) |
 ## Stack
 |  |
 | ------- |
@@ -231,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0394-decode-string](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0394-decode-string) |
 | [0445-add-two-numbers-ii](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0445-add-two-numbers-ii) |
 | [0496-next-greater-element-i](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0496-next-greater-element-i) |
+| [0874-backspace-string-compare](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0874-backspace-string-compare) |
 | [1792-find-the-most-competitive-subsequence](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/1792-find-the-most-competitive-subsequence) |
 ## String Matching
 |  |
@@ -255,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0054-spiral-matrix) |
 | [0067-add-binary](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0067-add-binary) |
+| [0874-backspace-string-compare](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0874-backspace-string-compare) |
 ## Sliding Window
 |  |
 | ------- |
