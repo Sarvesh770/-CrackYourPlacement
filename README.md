@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0902-minimum-number-of-refueling-stops](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0902-minimum-number-of-refueling-stops) |
 | [1014-k-closest-points-to-origin](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/1014-k-closest-points-to-origin) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/1016-subarray-sums-divisible-by-k) |
+| [1228-minimum-cost-tree-from-leaf-values](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/1228-minimum-cost-tree-from-leaf-values) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1622-max-value-of-equation](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/1622-max-value-of-equation) |
 | [1762-furthest-building-you-can-reach](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/1762-furthest-building-you-can-reach) |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0410-split-array-largest-sum) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0902-minimum-number-of-refueling-stops](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0902-minimum-number-of-refueling-stops) |
+| [1228-minimum-cost-tree-from-leaf-values](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/1228-minimum-cost-tree-from-leaf-values) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 ## Divide and Conquer
 |  |
@@ -157,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0680-valid-palindrome-ii) |
 | [0778-reorganize-string](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0778-reorganize-string) |
 | [0902-minimum-number-of-refueling-stops](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0902-minimum-number-of-refueling-stops) |
+| [1228-minimum-cost-tree-from-leaf-values](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/1228-minimum-cost-tree-from-leaf-values) |
 | [1762-furthest-building-you-can-reach](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/1762-furthest-building-you-can-reach) |
 | [1792-find-the-most-competitive-subsequence](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/1792-find-the-most-competitive-subsequence) |
 ## Prefix Sum
@@ -237,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0739-daily-temperatures) |
 | [0874-backspace-string-compare](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0874-backspace-string-compare) |
+| [1228-minimum-cost-tree-from-leaf-values](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/1228-minimum-cost-tree-from-leaf-values) |
 | [1792-find-the-most-competitive-subsequence](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/1792-find-the-most-competitive-subsequence) |
 ## String Matching
 |  |
@@ -308,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0084-largest-rectangle-in-histogram) |
 | [0496-next-greater-element-i](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0739-daily-temperatures) |
+| [1228-minimum-cost-tree-from-leaf-values](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/1228-minimum-cost-tree-from-leaf-values) |
 | [1792-find-the-most-competitive-subsequence](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/1792-find-the-most-competitive-subsequence) |
 ## Geometry
 |  |
