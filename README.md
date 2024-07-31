@@ -250,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0572-subtree-of-another-tree](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0572-subtree-of-another-tree) |
 ## Math
 |  |
 | ------- |
@@ -340,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0404-sum-of-left-leaves) |
 | [0543-diameter-of-binary-tree](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0543-diameter-of-binary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0572-subtree-of-another-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0662-maximum-width-of-binary-tree) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
@@ -359,6 +361,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0404-sum-of-left-leaves) |
 | [0543-diameter-of-binary-tree](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0543-diameter-of-binary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0572-subtree-of-another-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0662-maximum-width-of-binary-tree) |
 | [0733-flood-fill](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0733-flood-fill) |
 | [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
@@ -383,6 +386,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0404-sum-of-left-leaves) |
 | [0543-diameter-of-binary-tree](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0543-diameter-of-binary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0572-subtree-of-another-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0662-maximum-width-of-binary-tree) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
@@ -492,4 +496,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0937-online-stock-span](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0937-online-stock-span) |
+## Hash Function
+|  |
+| ------- |
+| [0572-subtree-of-another-tree](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0572-subtree-of-another-tree) |
 <!---LeetCode Topics End-->
