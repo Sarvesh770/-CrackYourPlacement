@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0169-majority-element](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0169-majority-element) |
 | [0200-number-of-islands](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0215-kth-largest-element-in-an-array) |
@@ -244,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0084-largest-rectangle-in-histogram) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0094-binary-tree-inorder-traversal) |
 | [0143-reorder-list](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0143-reorder-list) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0173-binary-search-tree-iterator](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0173-binary-search-tree-iterator) |
 | [0225-implement-stack-using-queues](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0232-implement-queue-using-stacks) |
@@ -270,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0012-integer-to-roman) |
 | [0048-rotate-image](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0048-rotate-image) |
 | [0067-add-binary](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0067-add-binary) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0168-excel-sheet-column-title](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0168-excel-sheet-column-title) |
 | [0264-ugly-number-ii](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0264-ugly-number-ii) |
 | [0445-add-two-numbers-ii](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0445-add-two-numbers-ii) |
