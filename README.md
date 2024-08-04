@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0347-top-k-frequent-elements](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0399-evaluate-division](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0399-evaluate-division) |
 | [0410-split-array-largest-sum](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0410-split-array-largest-sum) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
@@ -244,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0257-binary-tree-paths) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0394-decode-string](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0394-decode-string) |
+| [0399-evaluate-division](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0399-evaluate-division) |
 | [0680-valid-palindrome-ii](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0680-valid-palindrome-ii) |
 | [0778-reorganize-string](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0778-reorganize-string) |
 | [0874-backspace-string-compare](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0874-backspace-string-compare) |
@@ -419,6 +421,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0257-binary-tree-paths) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0341-flatten-nested-list-iterator](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0341-flatten-nested-list-iterator) |
+| [0399-evaluate-division](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0399-evaluate-division) |
 | [0404-sum-of-left-leaves](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0404-sum-of-left-leaves) |
 | [0437-path-sum-iii](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0437-path-sum-iii) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0530-minimum-absolute-difference-in-bst) |
@@ -490,6 +493,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0226-invert-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0399-evaluate-division](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0399-evaluate-division) |
 | [0404-sum-of-left-leaves](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0404-sum-of-left-leaves) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0617-merge-two-binary-trees](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0617-merge-two-binary-trees) |
@@ -505,11 +509,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0200-number-of-islands) |
+| [0399-evaluate-division](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0399-evaluate-division) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/1442-number-of-operations-to-make-network-connected) |
 ## Graph
 |  |
 | ------- |
+| [0399-evaluate-division](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0399-evaluate-division) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0820-find-eventual-safe-states](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0820-find-eventual-safe-states) |
 | [0863-sum-of-distances-in-tree](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0863-sum-of-distances-in-tree) |
@@ -523,6 +529,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Shortest Path
 |  |
 | ------- |
+| [0399-evaluate-division](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0399-evaluate-division) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 ## Linked List
