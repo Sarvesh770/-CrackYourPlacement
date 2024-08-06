@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0287-find-the-duplicate-number) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0315-count-of-smaller-numbers-after-self) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0347-top-k-frequent-elements](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0399-evaluate-division](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0399-evaluate-division) |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0073-set-matrix-zeroes) |
 | [0079-word-search](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0200-number-of-islands) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0733-flood-fill](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0733-flood-fill) |
 | [0794-swim-in-rising-water](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0794-swim-in-rising-water) |
@@ -148,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0264-ugly-number-ii](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0264-ugly-number-ii) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0410-split-array-largest-sum](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0410-split-array-largest-sum) |
 | [0546-remove-boxes](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0546-remove-boxes) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0803-cheapest-flights-within-k-stops) |
@@ -430,6 +433,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0257-binary-tree-paths](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0257-binary-tree-paths) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0341-flatten-nested-list-iterator](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0341-flatten-nested-list-iterator) |
 | [0399-evaluate-division](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0399-evaluate-division) |
 | [0404-sum-of-left-leaves](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0404-sum-of-left-leaves) |
@@ -507,6 +511,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0226-invert-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0399-evaluate-division](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0399-evaluate-division) |
 | [0404-sum-of-left-leaves](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0404-sum-of-left-leaves) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0530-minimum-absolute-difference-in-bst) |
@@ -536,6 +541,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph
 |  |
 | ------- |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0399-evaluate-division](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0399-evaluate-division) |
 | [0684-redundant-connection](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0684-redundant-connection) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0803-cheapest-flights-within-k-stops) |
@@ -548,6 +554,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Topological Sort
 |  |
 | ------- |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0820-find-eventual-safe-states](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0820-find-eventual-safe-states) |
 ## Shortest Path
 |  |
@@ -648,6 +655,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Memoization
 |  |
 | ------- |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0546-remove-boxes](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0546-remove-boxes) |
 ## Biconnected Component
 |  |
