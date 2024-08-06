@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0410-split-array-largest-sum) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [0474-ones-and-zeroes](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0474-ones-and-zeroes) |
 | [0493-reverse-pairs](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0493-reverse-pairs) |
 | [0496-next-greater-element-i](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0496-next-greater-element-i) |
 | [0546-remove-boxes](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0546-remove-boxes) |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0264-ugly-number-ii](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0264-ugly-number-ii) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0410-split-array-largest-sum](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0410-split-array-largest-sum) |
+| [0474-ones-and-zeroes](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0474-ones-and-zeroes) |
 | [0546-remove-boxes](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0546-remove-boxes) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0863-sum-of-distances-in-tree](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0863-sum-of-distances-in-tree) |
@@ -264,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0394-decode-string](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0394-decode-string) |
 | [0399-evaluate-division](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0399-evaluate-division) |
+| [0474-ones-and-zeroes](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0474-ones-and-zeroes) |
 | [0680-valid-palindrome-ii](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0680-valid-palindrome-ii) |
 | [0778-reorganize-string](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0778-reorganize-string) |
 | [0874-backspace-string-compare](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0874-backspace-string-compare) |
