@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0739-daily-temperatures) |
 | [0794-swim-in-rising-water](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0794-swim-in-rising-water) |
 | [0854-making-a-large-island](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0854-making-a-large-island) |
+| [0887-minimum-cost-to-hire-k-workers](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0887-minimum-cost-to-hire-k-workers) |
 | [0902-minimum-number-of-refueling-stops](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0902-minimum-number-of-refueling-stops) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0943-sum-of-subarray-minimums](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0943-sum-of-subarray-minimums) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0628-maximum-product-of-three-numbers) |
 | [0778-reorganize-string](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0778-reorganize-string) |
+| [0887-minimum-cost-to-hire-k-workers](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0887-minimum-cost-to-hire-k-workers) |
 | [1014-k-closest-points-to-origin](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/1014-k-closest-points-to-origin) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 ## Hash Table
@@ -190,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0410-split-array-largest-sum) |
 | [0680-valid-palindrome-ii](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0680-valid-palindrome-ii) |
 | [0778-reorganize-string](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0778-reorganize-string) |
+| [0887-minimum-cost-to-hire-k-workers](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0887-minimum-cost-to-hire-k-workers) |
 | [0902-minimum-number-of-refueling-stops](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0902-minimum-number-of-refueling-stops) |
 | [1228-minimum-cost-tree-from-leaf-values](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/1228-minimum-cost-tree-from-leaf-values) |
 | [1762-furthest-building-you-can-reach](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/1762-furthest-building-you-can-reach) |
@@ -343,6 +346,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0778-reorganize-string](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0778-reorganize-string) |
 | [0794-swim-in-rising-water](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0794-swim-in-rising-water) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0803-cheapest-flights-within-k-stops) |
+| [0887-minimum-cost-to-hire-k-workers](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0887-minimum-cost-to-hire-k-workers) |
 | [0902-minimum-number-of-refueling-stops](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0902-minimum-number-of-refueling-stops) |
 | [1014-k-closest-points-to-origin](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/1014-k-closest-points-to-origin) |
 | [1622-max-value-of-equation](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/1622-max-value-of-equation) |
