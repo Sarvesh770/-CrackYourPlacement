@@ -147,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0022-generate-parentheses) |
 | [0055-jump-game](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0055-jump-game) |
+| [0062-unique-paths](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0070-climbing-stairs) |
 | [0095-unique-binary-search-trees-ii](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0096-unique-binary-search-trees) |
@@ -311,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0002-add-two-numbers) |
 | [0012-integer-to-roman](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0012-integer-to-roman) |
 | [0048-rotate-image](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0048-rotate-image) |
+| [0062-unique-paths](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0062-unique-paths) |
 | [0067-add-binary](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0070-climbing-stairs) |
 | [0096-unique-binary-search-trees](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0096-unique-binary-search-trees) |
@@ -682,4 +684,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
