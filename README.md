@@ -153,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0062-unique-paths) |
 | [0064-minimum-path-sum](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0070-climbing-stairs) |
+| [0091-decode-ways](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0091-decode-ways) |
 | [0095-unique-binary-search-trees-ii](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0096-unique-binary-search-trees) |
 | [0115-distinct-subsequences](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0115-distinct-subsequences) |
@@ -267,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0049-group-anagrams) |
 | [0067-add-binary](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0067-add-binary) |
 | [0079-word-search](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0079-word-search) |
+| [0091-decode-ways](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0091-decode-ways) |
 | [0115-distinct-subsequences](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0115-distinct-subsequences) |
 | [0127-word-ladder](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0127-word-ladder) |
 | [0151-reverse-words-in-a-string](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0151-reverse-words-in-a-string) |
