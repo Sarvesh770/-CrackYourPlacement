@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1792-find-the-most-competitive-subsequence](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/1792-find-the-most-competitive-subsequence) |
 | [3454-minimum-operations-to-make-array-equal-to-target](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/3454-minimum-operations-to-make-array-equal-to-target) |
 | [3498-minimum-array-changes-to-make-differences-equal](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/3498-minimum-array-changes-to-make-differences-equal) |
+| [3500-minimum-cost-for-cutting-cake-ii](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/3500-minimum-cost-for-cutting-cake-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0887-minimum-cost-to-hire-k-workers](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0887-minimum-cost-to-hire-k-workers) |
 | [1014-k-closest-points-to-origin](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/1014-k-closest-points-to-origin) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [3500-minimum-cost-for-cutting-cake-ii](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/3500-minimum-cost-for-cutting-cake-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -227,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1762-furthest-building-you-can-reach](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/1762-furthest-building-you-can-reach) |
 | [1792-find-the-most-competitive-subsequence](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/1792-find-the-most-competitive-subsequence) |
 | [3454-minimum-operations-to-make-array-equal-to-target](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/3454-minimum-operations-to-make-array-equal-to-target) |
+| [3500-minimum-cost-for-cutting-cake-ii](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/3500-minimum-cost-for-cutting-cake-ii) |
 ## Prefix Sum
 |  |
 | ------- |
