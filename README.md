@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1762-furthest-building-you-can-reach](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/1762-furthest-building-you-can-reach) |
 | [1792-find-the-most-competitive-subsequence](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/1792-find-the-most-competitive-subsequence) |
 | [3454-minimum-operations-to-make-array-equal-to-target](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/3454-minimum-operations-to-make-array-equal-to-target) |
+| [3498-minimum-array-changes-to-make-differences-equal](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/3498-minimum-array-changes-to-make-differences-equal) |
 ## Two Pointers
 |  |
 | ------- |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [3498-minimum-array-changes-to-make-differences-equal](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/3498-minimum-array-changes-to-make-differences-equal) |
 ## Matrix
 |  |
 | ------- |
@@ -221,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0560-subarray-sum-equals-k) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
+| [3498-minimum-array-changes-to-make-differences-equal](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/3498-minimum-array-changes-to-make-differences-equal) |
 ## Binary Search
 |  |
 | ------- |
