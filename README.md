@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1622-max-value-of-equation](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/1622-max-value-of-equation) |
+| [1733-maximum-number-of-visible-points](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/1733-maximum-number-of-visible-points) |
 | [1762-furthest-building-you-can-reach](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/1762-furthest-building-you-can-reach) |
 | [1792-find-the-most-competitive-subsequence](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/1792-find-the-most-competitive-subsequence) |
 | [3454-minimum-operations-to-make-array-equal-to-target](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/3454-minimum-operations-to-make-array-equal-to-target) |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0887-minimum-cost-to-hire-k-workers](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0887-minimum-cost-to-hire-k-workers) |
 | [1014-k-closest-points-to-origin](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/1014-k-closest-points-to-origin) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1733-maximum-number-of-visible-points](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/1733-maximum-number-of-visible-points) |
 | [3500-minimum-cost-for-cutting-cake-ii](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/3500-minimum-cost-for-cutting-cake-ii) |
 ## Hash Table
 |  |
@@ -381,6 +383,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0923-super-egg-drop](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0923-super-egg-drop) |
 | [1014-k-closest-points-to-origin](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/1014-k-closest-points-to-origin) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
+| [1733-maximum-number-of-visible-points](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/1733-maximum-number-of-visible-points) |
 ## Simulation
 |  |
 | ------- |
@@ -395,6 +398,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0718-maximum-length-of-repeated-subarray](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1622-max-value-of-equation](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/1622-max-value-of-equation) |
+| [1733-maximum-number-of-visible-points](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/1733-maximum-number-of-visible-points) |
 | [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
 ## Backtracking
 |  |
@@ -451,6 +455,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1014-k-closest-points-to-origin](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/1014-k-closest-points-to-origin) |
+| [1733-maximum-number-of-visible-points](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/1733-maximum-number-of-visible-points) |
 ## Tree
 |  |
 | ------- |
