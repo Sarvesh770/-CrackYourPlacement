@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0496-next-greater-element-i) |
 | [0546-remove-boxes](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0546-remove-boxes) |
 | [0560-subarray-sum-equals-k](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0560-subarray-sum-equals-k) |
+| [0621-task-scheduler](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0621-task-scheduler) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0628-maximum-product-of-three-numbers) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0733-flood-fill](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0733-flood-fill) |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [0621-task-scheduler](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0621-task-scheduler) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0628-maximum-product-of-three-numbers) |
 | [0778-reorganize-string](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0778-reorganize-string) |
 | [0887-minimum-cost-to-hire-k-workers](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0887-minimum-cost-to-hire-k-workers) |
@@ -144,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0560-subarray-sum-equals-k) |
+| [0621-task-scheduler](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0621-task-scheduler) |
 | [0740-delete-and-earn](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0740-delete-and-earn) |
 | [0778-reorganize-string](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0778-reorganize-string) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
@@ -238,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0347-top-k-frequent-elements) |
+| [0621-task-scheduler](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0621-task-scheduler) |
 | [0778-reorganize-string](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0778-reorganize-string) |
 ## Greedy
 |  |
@@ -247,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0134-gas-station) |
 | [0410-split-array-largest-sum](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0410-split-array-largest-sum) |
+| [0621-task-scheduler](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0621-task-scheduler) |
 | [0680-valid-palindrome-ii](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0680-valid-palindrome-ii) |
 | [0778-reorganize-string](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0778-reorganize-string) |
 | [0887-minimum-cost-to-hire-k-workers](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0887-minimum-cost-to-hire-k-workers) |
@@ -424,6 +429,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0264-ugly-number-ii](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0264-ugly-number-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0621-task-scheduler](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0621-task-scheduler) |
 | [0778-reorganize-string](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0778-reorganize-string) |
 | [0794-swim-in-rising-water](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0794-swim-in-rising-water) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0803-cheapest-flights-within-k-stops) |
