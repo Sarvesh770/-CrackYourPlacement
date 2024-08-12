@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0474-ones-and-zeroes](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0474-ones-and-zeroes) |
 | [0493-reverse-pairs](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0493-reverse-pairs) |
 | [0496-next-greater-element-i](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0496-next-greater-element-i) |
+| [0526-beautiful-arrangement](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0526-beautiful-arrangement) |
 | [0546-remove-boxes](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0546-remove-boxes) |
 | [0560-subarray-sum-equals-k](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0560-subarray-sum-equals-k) |
 | [0621-task-scheduler](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0621-task-scheduler) |
@@ -213,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0435-non-overlapping-intervals) |
 | [0474-ones-and-zeroes](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0474-ones-and-zeroes) |
+| [0526-beautiful-arrangement](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0526-beautiful-arrangement) |
 | [0546-remove-boxes](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0546-remove-boxes) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0730-count-different-palindromic-subsequences](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0730-count-different-palindromic-subsequences) |
@@ -326,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0090-subsets-ii) |
 | [0287-find-the-duplicate-number](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0287-find-the-duplicate-number) |
 | [0338-counting-bits](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0338-counting-bits) |
+| [0526-beautiful-arrangement](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0526-beautiful-arrangement) |
 ## String
 |  |
 | ------- |
@@ -437,6 +440,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0090-subsets-ii) |
 | [0095-unique-binary-search-trees-ii](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0095-unique-binary-search-trees-ii) |
 | [0257-binary-tree-paths](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0257-binary-tree-paths) |
+| [0526-beautiful-arrangement](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0526-beautiful-arrangement) |
 ## Trie
 |  |
 | ------- |
@@ -793,4 +797,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0718-maximum-length-of-repeated-subarray) |
+## Bitmask
+|  |
+| ------- |
+| [0526-beautiful-arrangement](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0526-beautiful-arrangement) |
 <!---LeetCode Topics End-->
