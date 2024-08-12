@@ -430,6 +430,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0022-generate-parentheses) |
 | [0040-combination-sum-ii](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0040-combination-sum-ii) |
+| [0077-combinations](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0077-combinations) |
 | [0079-word-search](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0079-word-search) |
 | [0095-unique-binary-search-trees-ii](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0095-unique-binary-search-trees-ii) |
 | [0257-binary-tree-paths](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0257-binary-tree-paths) |
