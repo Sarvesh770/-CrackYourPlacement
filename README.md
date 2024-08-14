@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0239-sliding-window-maximum) |
 | [0283-move-zeroes](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0287-find-the-duplicate-number) |
+| [0289-game-of-life](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0289-game-of-life) |
 | [0300-longest-increasing-subsequence](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0300-longest-increasing-subsequence) |
 | [0303-range-sum-query-immutable](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0304-range-sum-query-2d-immutable) |
@@ -182,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0085-maximal-rectangle) |
 | [0200-number-of-islands](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0200-number-of-islands) |
 | [0221-maximal-square](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0221-maximal-square) |
+| [0289-game-of-life](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0289-game-of-life) |
 | [0304-range-sum-query-2d-immutable](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0304-range-sum-query-2d-immutable) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
@@ -431,6 +433,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0054-spiral-matrix) |
 | [0067-add-binary](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0067-add-binary) |
+| [0289-game-of-life](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0289-game-of-life) |
 | [0874-backspace-string-compare](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0874-backspace-string-compare) |
 ## Sliding Window
 |  |
