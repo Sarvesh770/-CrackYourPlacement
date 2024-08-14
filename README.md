@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0945-snakes-and-ladders](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0945-snakes-and-ladders) |
 | [1014-k-closest-points-to-origin](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/1014-k-closest-points-to-origin) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/1016-subarray-sums-divisible-by-k) |
+| [1022-unique-paths-iii](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/1022-unique-paths-iii) |
 | [1042-minimum-cost-to-merge-stones](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/1042-minimum-cost-to-merge-stones) |
 | [1117-as-far-from-land-as-possible](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/1117-as-far-from-land-as-possible) |
 | [1228-minimum-cost-tree-from-leaf-values](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/1228-minimum-cost-tree-from-leaf-values) |
@@ -187,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0794-swim-in-rising-water](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0794-swim-in-rising-water) |
 | [0854-making-a-large-island](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0854-making-a-large-island) |
 | [0945-snakes-and-ladders](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0945-snakes-and-ladders) |
+| [1022-unique-paths-iii](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/1022-unique-paths-iii) |
 | [1117-as-far-from-land-as-possible](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/1117-as-far-from-land-as-possible) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/1402-count-square-submatrices-with-all-ones) |
 ## Dynamic Programming
@@ -335,6 +337,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0287-find-the-duplicate-number) |
 | [0338-counting-bits](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0338-counting-bits) |
 | [0526-beautiful-arrangement](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0526-beautiful-arrangement) |
+| [1022-unique-paths-iii](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/1022-unique-paths-iii) |
 ## String
 |  |
 | ------- |
@@ -452,6 +455,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0131-palindrome-partitioning) |
 | [0257-binary-tree-paths](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0257-binary-tree-paths) |
 | [0526-beautiful-arrangement](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0526-beautiful-arrangement) |
+| [1022-unique-paths-iii](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/1022-unique-paths-iii) |
 ## Trie
 |  |
 | ------- |
