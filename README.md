@@ -362,6 +362,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0131-palindrome-partitioning) |
 | [0151-reverse-words-in-a-string](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0151-reverse-words-in-a-string) |
 | [0168-excel-sheet-column-title](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0168-excel-sheet-column-title) |
+| [0227-basic-calculator-ii](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0227-basic-calculator-ii) |
 | [0257-binary-tree-paths](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0257-binary-tree-paths) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0394-decode-string](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0394-decode-string) |
@@ -392,6 +393,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0173-binary-search-tree-iterator](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0173-binary-search-tree-iterator) |
 | [0225-implement-stack-using-queues](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0225-implement-stack-using-queues) |
+| [0227-basic-calculator-ii](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0227-basic-calculator-ii) |
 | [0232-implement-queue-using-stacks](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0234-palindrome-linked-list) |
 | [0341-flatten-nested-list-iterator](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0341-flatten-nested-list-iterator) |
@@ -424,6 +426,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0096-unique-binary-search-trees](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0096-unique-binary-search-trees) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0168-excel-sheet-column-title](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0168-excel-sheet-column-title) |
+| [0227-basic-calculator-ii](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0227-basic-calculator-ii) |
 | [0264-ugly-number-ii](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0264-ugly-number-ii) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0445-add-two-numbers-ii](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0445-add-two-numbers-ii) |
