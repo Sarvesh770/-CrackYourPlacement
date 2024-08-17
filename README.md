@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3454-minimum-operations-to-make-array-equal-to-target](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/3454-minimum-operations-to-make-array-equal-to-target) |
 | [3498-minimum-array-changes-to-make-differences-equal](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/3498-minimum-array-changes-to-make-differences-equal) |
 | [3500-minimum-cost-for-cutting-cake-ii](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/3500-minimum-cost-for-cutting-cake-ii) |
+| [3535-find-the-count-of-monotonic-pairs-i](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/3535-find-the-count-of-monotonic-pairs-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -249,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [3454-minimum-operations-to-make-array-equal-to-target](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/3454-minimum-operations-to-make-array-equal-to-target) |
+| [3535-find-the-count-of-monotonic-pairs-i](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/3535-find-the-count-of-monotonic-pairs-i) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -302,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1042-minimum-cost-to-merge-stones](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/1042-minimum-cost-to-merge-stones) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [3498-minimum-array-changes-to-make-differences-equal](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/3498-minimum-array-changes-to-make-differences-equal) |
+| [3535-find-the-count-of-monotonic-pairs-i](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/3535-find-the-count-of-monotonic-pairs-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -443,6 +446,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1014-k-closest-points-to-origin](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/1014-k-closest-points-to-origin) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1733-maximum-number-of-visible-points](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/1733-maximum-number-of-visible-points) |
+| [3535-find-the-count-of-monotonic-pairs-i](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/3535-find-the-count-of-monotonic-pairs-i) |
 ## Simulation
 |  |
 | ------- |
@@ -833,6 +837,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0062-unique-paths) |
+| [3535-find-the-count-of-monotonic-pairs-i](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/3535-find-the-count-of-monotonic-pairs-i) |
 ## Rolling Hash
 |  |
 | ------- |
