@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0943-sum-of-subarray-minimums](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0943-sum-of-subarray-minimums) |
 | [0945-snakes-and-ladders](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0945-snakes-and-ladders) |
+| [0971-shortest-bridge](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0971-shortest-bridge) |
 | [1014-k-closest-points-to-origin](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/1014-k-closest-points-to-origin) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1022-unique-paths-iii](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/1022-unique-paths-iii) |
@@ -197,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0794-swim-in-rising-water](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0794-swim-in-rising-water) |
 | [0854-making-a-large-island](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0854-making-a-large-island) |
 | [0945-snakes-and-ladders](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0945-snakes-and-ladders) |
+| [0971-shortest-bridge](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0971-shortest-bridge) |
 | [1022-unique-paths-iii](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/1022-unique-paths-iii) |
 | [1117-as-far-from-land-as-possible](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/1117-as-far-from-land-as-possible) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/1402-count-square-submatrices-with-all-ones) |
@@ -614,6 +616,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0854-making-a-large-island](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0854-making-a-large-island) |
 | [0863-sum-of-distances-in-tree](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0863-sum-of-distances-in-tree) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
+| [0971-shortest-bridge](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0971-shortest-bridge) |
 | [0975-range-sum-of-bst](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0975-range-sum-of-bst) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1008-binary-tree-cameras](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/1008-binary-tree-cameras) |
@@ -688,6 +691,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0854-making-a-large-island](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0854-making-a-large-island) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0945-snakes-and-ladders](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0945-snakes-and-ladders) |
+| [0971-shortest-bridge](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0971-shortest-bridge) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1117-as-far-from-land-as-possible](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/1117-as-far-from-land-as-possible) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/1442-number-of-operations-to-make-network-connected) |
