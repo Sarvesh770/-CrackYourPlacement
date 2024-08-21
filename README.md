@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0322-coin-change](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0322-coin-change) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0336-palindrome-pairs](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0336-palindrome-pairs) |
 | [0347-top-k-frequent-elements](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
@@ -162,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0169-majority-element) |
 | [0208-implement-trie-prefix-tree](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0208-implement-trie-prefix-tree) |
 | [0264-ugly-number-ii](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0264-ugly-number-ii) |
+| [0336-palindrome-pairs](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0336-palindrome-pairs) |
 | [0347-top-k-frequent-elements](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0347-top-k-frequent-elements) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0424-longest-repeating-character-replacement](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0424-longest-repeating-character-replacement) |
@@ -380,6 +382,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0257-binary-tree-paths) |
 | [0273-integer-to-english-words](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0273-integer-to-english-words) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0336-palindrome-pairs](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0336-palindrome-pairs) |
 | [0394-decode-string](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0394-decode-string) |
 | [0399-evaluate-division](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0399-evaluate-division) |
 | [0402-remove-k-digits](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0402-remove-k-digits) |
@@ -494,6 +497,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0014-longest-common-prefix) |
 | [0208-implement-trie-prefix-tree](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0211-design-add-and-search-words-data-structure) |
+| [0336-palindrome-pairs](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0336-palindrome-pairs) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
