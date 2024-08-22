@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3498-minimum-array-changes-to-make-differences-equal](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/3498-minimum-array-changes-to-make-differences-equal) |
 | [3500-minimum-cost-for-cutting-cake-ii](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/3500-minimum-cost-for-cutting-cake-ii) |
 | [3535-find-the-count-of-monotonic-pairs-i](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/3535-find-the-count-of-monotonic-pairs-i) |
+| [3542-maximum-value-sum-by-placing-three-rooks-ii](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/3542-maximum-value-sum-by-placing-three-rooks-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -205,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1022-unique-paths-iii](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/1022-unique-paths-iii) |
 | [1117-as-far-from-land-as-possible](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/1117-as-far-from-land-as-possible) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/1402-count-square-submatrices-with-all-ones) |
+| [3542-maximum-value-sum-by-placing-three-rooks-ii](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/3542-maximum-value-sum-by-placing-three-rooks-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -257,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [3454-minimum-operations-to-make-array-equal-to-target](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/3454-minimum-operations-to-make-array-equal-to-target) |
 | [3535-find-the-count-of-monotonic-pairs-i](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/3535-find-the-count-of-monotonic-pairs-i) |
+| [3542-maximum-value-sum-by-placing-three-rooks-ii](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/3542-maximum-value-sum-by-placing-three-rooks-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -854,6 +857,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
+| [3542-maximum-value-sum-by-placing-three-rooks-ii](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/3542-maximum-value-sum-by-placing-three-rooks-ii) |
 ## Combinatorics
 |  |
 | ------- |
