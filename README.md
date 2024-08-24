@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0312-burst-balloons](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0312-burst-balloons) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0322-coin-change](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0322-coin-change) |
+| [0327-count-of-range-sum](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0327-count-of-range-sum) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0336-palindrome-pairs](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0336-palindrome-pairs) |
 | [0347-top-k-frequent-elements](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0347-top-k-frequent-elements) |
@@ -270,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0215-kth-largest-element-in-an-array) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0315-count-of-smaller-numbers-after-self) |
+| [0327-count-of-range-sum](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0327-count-of-range-sum) |
 | [0347-top-k-frequent-elements](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0347-top-k-frequent-elements) |
 | [0493-reverse-pairs](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0493-reverse-pairs) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
@@ -322,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0300-longest-increasing-subsequence) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0315-count-of-smaller-numbers-after-self) |
+| [0327-count-of-range-sum](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0327-count-of-range-sum) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0410-split-array-largest-sum](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0410-split-array-largest-sum) |
 | [0493-reverse-pairs](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0493-reverse-pairs) |
@@ -333,12 +336,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0307-range-sum-query-mutable](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0307-range-sum-query-mutable) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0315-count-of-smaller-numbers-after-self) |
+| [0327-count-of-range-sum](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0327-count-of-range-sum) |
 | [0493-reverse-pairs](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0493-reverse-pairs) |
 ## Segment Tree
 |  |
 | ------- |
 | [0307-range-sum-query-mutable](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0307-range-sum-query-mutable) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0315-count-of-smaller-numbers-after-self) |
+| [0327-count-of-range-sum](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0327-count-of-range-sum) |
 | [0493-reverse-pairs](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0493-reverse-pairs) |
 ## Merge Sort
 |  |
@@ -346,11 +351,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0023-merge-k-sorted-lists](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0023-merge-k-sorted-lists) |
 | [0148-sort-list](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0148-sort-list) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0315-count-of-smaller-numbers-after-self) |
+| [0327-count-of-range-sum](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0327-count-of-range-sum) |
 | [0493-reverse-pairs](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0493-reverse-pairs) |
 ## Ordered Set
 |  |
 | ------- |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0315-count-of-smaller-numbers-after-self) |
+| [0327-count-of-range-sum](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0327-count-of-range-sum) |
 | [0493-reverse-pairs](https://github.com/Sarvesh770/-CrackYourPlacement/tree/master/0493-reverse-pairs) |
 ## Bit Manipulation
 |  |
